@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这只是个意外啊
 
 You can use the [editor on GitHub](https://github.com/OTS-14/OTS-14.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 没有啊
+## 真的啥也没有啊
+### 真真的啥也没有啊
 
 - Bulleted
 - List
